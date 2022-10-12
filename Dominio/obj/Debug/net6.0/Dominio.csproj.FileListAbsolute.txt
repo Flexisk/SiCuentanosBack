@@ -1,0 +1,72 @@
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Dominio\bin\Debug\net6.0\Dominio.deps.json
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Dominio\bin\Debug\net6.0\Dominio.dll
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Dominio\bin\Debug\net6.0\Dominio.pdb
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Dominio\obj\Debug\net6.0\Dominio.dll
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Dominio\obj\Debug\net6.0\Dominio.pdb
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Dominio\obj\Debug\net6.0\ref\Dominio.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Dominio\bin\Debug\net6.0\Dominio.deps.json
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Dominio\bin\Debug\net6.0\Dominio.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Dominio\bin\Debug\net6.0\Dominio.pdb
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.pdb
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\ref\Dominio.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Dominio\bin\Debug\net6.0\Dominio.deps.json
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Dominio\bin\Debug\net6.0\Dominio.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Dominio\bin\Debug\net6.0\Dominio.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\ref\Dominio.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Dominio\bin\Debug\net6.0\Dominio.deps.json
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Dominio\bin\Debug\net6.0\Dominio.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Dominio\bin\Debug\net6.0\Dominio.pdb
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.pdb
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\ref\Dominio.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Dominio\bin\Debug\net6.0\Dominio.deps.json
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Dominio\bin\Debug\net6.0\Dominio.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Dominio\bin\Debug\net6.0\Dominio.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Dominio\obj\Debug\net6.0\Dominio.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Dominio\obj\Debug\net6.0\Dominio.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Dominio\obj\Debug\net6.0\ref\Dominio.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Dominio\bin\Debug\net6.0\Dominio.deps.json
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Dominio\bin\Debug\net6.0\Dominio.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Dominio\bin\Debug\net6.0\Dominio.pdb
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\Dominio.pdb
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Dominio\obj\Debug\net6.0\ref\Dominio.dll

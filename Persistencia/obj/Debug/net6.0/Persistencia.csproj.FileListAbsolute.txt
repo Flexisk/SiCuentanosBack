@@ -1,0 +1,102 @@
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\bin\Debug\net6.0\Persistencia.runtimeconfig.json
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\bin\Debug\net6.0\Persistencia.dll
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\bin\Debug\net6.0\Dominio.dll
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\bin\Debug\net6.0\Dominio.pdb
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\obj\Debug\net6.0\Persistencia.dll
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\obj\Debug\net6.0\Persistencia.genruntimeconfig.cache
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.runtimeconfig.json
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Dominio.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Dominio.pdb
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.genruntimeconfig.cache
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.runtimeconfig.json
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Dominio.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Dominio.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.genruntimeconfig.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.runtimeconfig.json
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Dominio.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Dominio.pdb
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.genruntimeconfig.cache
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\bin\Debug\net6.0\Persistencia.runtimeconfig.json
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\bin\Debug\net6.0\Persistencia.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\bin\Debug\net6.0\Dominio.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\bin\Debug\net6.0\Dominio.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\obj\Debug\net6.0\Persistencia.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\obj\Debug\net6.0\Persistencia.genruntimeconfig.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.runtimeconfig.json
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Dominio.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\bin\Debug\net6.0\Dominio.pdb
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\Persistencia.genruntimeconfig.cache
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll

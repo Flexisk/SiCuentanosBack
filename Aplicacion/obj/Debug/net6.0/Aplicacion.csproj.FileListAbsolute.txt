@@ -1,0 +1,120 @@
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\bin\Debug\net6.0\Dominio.dll
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\bin\Debug\net6.0\Persistencia.dll
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\bin\Debug\net6.0\Persistencia.pdb
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\bin\Debug\net6.0\Dominio.pdb
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+D:\Users\camilo\Documents\SOAINT\DOCUMENTACION\SICUENTANOS\MOD. ADMINISTRADOR\FASE DESARROLLO\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Dominio.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Persistencia.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Persistencia.pdb
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Dominio.pdb
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+H:\.shortcut-targets-by-id\193gV2KqPtIJqiUJ71enEzRnl_BmjMY2I\6. SICUENTANOS\4. Documentación técnica\ADMINISTRADOR\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Dominio.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Persistencia.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Dominio.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\SICUENTANOS_Back\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Dominio.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Persistencia.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Dominio.pdb
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\Users\erojas\Documents\BackSicuentanos\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\Dominio.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\Persistencia.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\Dominio.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Dominio.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Persistencia.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Dominio.pdb
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\Aplicacion.runtimeconfig.json
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\obj\Debug\net6.0\Aplicacion.genruntimeconfig.cache
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\Aplicacion.runtimeconfig.json
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\obj\Debug\net6.0\Aplicacion.genruntimeconfig.cache
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\libzstd.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\snappy32.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\snappy64.dll
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\libsnappy64.so
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\libzstd.so
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\libsnappy64.dylib
+C:\Users\erojas\Pictures\SICUENTANOS_Back\Aplicacion\bin\Debug\net6.0\libzstd.dylib
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\libzstd.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\snappy32.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\snappy64.dll
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\libsnappy64.so
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\libzstd.so
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\libsnappy64.dylib
+C:\Users\fgarcia\Documents\RepositoriosSiCuentanos\Azure\Aplicacion\bin\Debug\net6.0\libzstd.dylib
